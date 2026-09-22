@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @albinenqore
+/src/backend/database.py      @albinenqore
+/src/backend/routers/auth.py  @albinenqore
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @albinenqore
